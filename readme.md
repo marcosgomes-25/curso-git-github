@@ -16,3 +16,5 @@ teste em casa
 teste de versionamento
 
 checar o meu blog. www.marcoslima.com
+
+vamos verificar se houve ou nào mudança nos arquivos
